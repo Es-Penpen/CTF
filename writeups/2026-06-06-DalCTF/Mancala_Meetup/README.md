@@ -22,4 +22,5 @@ Thankfully, we don't have to run around like headless chickens (penguins?) tryin
 The "try something **new**" hints towards a private server called [New Club Penguin](https://newcp.net/).
 From there, all you had to do was make a penguin, check out the second floor of the Coffee Shop, and boom! 
 Penguin flag located.
+
 ![Penguin in the Coffee Shop named "dalctfCD3NC3"](image.png)
